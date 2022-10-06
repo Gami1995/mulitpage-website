@@ -41,3 +41,15 @@ th {
 table {
     margin: auto;
 }
+
+.kid {
+    background-color:green;
+}
+
+.teen {
+    background-color:yellow;
+}
+
+.adult {
+    background-color:red;
+}
